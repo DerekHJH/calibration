@@ -14,3 +14,5 @@ For now, users need to pay attention to only one file: test_toy.py. This file co
 ```bash
 python test_toy.py toy
 ```
+
+After you are familiar with test_toy.py, you can try to run test_quant.py. This file contains the code for quantizing the whole ViT model. Refer to the original_readme.md for more details.
